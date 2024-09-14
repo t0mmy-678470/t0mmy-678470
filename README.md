@@ -1,5 +1,12 @@
-## Hi there 👋
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=t0mmy-678470&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=t0mmy-678470&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mmy-678470&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=t0mmy-678470&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **t0mmy-678470/t0mmy-678470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
